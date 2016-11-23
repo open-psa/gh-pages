@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Open PSA Workshop 4 - Osaka 2007</title>
+		<description>Website of the Open Initiative for Next Generation of Probabilistic Safety Assessment</description>
+		<link>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=category&amp;id=9&amp;Itemid=8</link>
+		<lastBuildDate>Sun, 17 Jan 2016 09:23:30 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>en-gb</language>
+		<item>
+			<title>Presentations</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=22:presentations&amp;catid=9:open-psa-workshop-4-osaka-2007&amp;Itemid=8</link>
+			<guid>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=22:presentations&amp;catid=9:open-psa-workshop-4-osaka-2007&amp;Itemid=8</guid>
+			<description><![CDATA[<p>[FIXME]</p>]]></description>
+			<author>postmaster@open-psa.org (Administrator)</author>
+			<category>Open PSA Workshop 4 - Osaka 2007</category>
+			<pubDate>Sat, 16 Jan 2010 23:06:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Announcement</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=21:announcement&amp;catid=9:open-psa-workshop-4-osaka-2007&amp;Itemid=8</link>
+			<guid>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=21:announcement&amp;catid=9:open-psa-workshop-4-osaka-2007&amp;Itemid=8</guid>
+			<description><![CDATA[<p>Dear Colleagues,</p>
+<p>Over the last 5 years, new calculation techniques, such as BDD, have been extensively studied in nuclear PSA. The concern of these studies has been to end the use of approximations: numerical approximations for which we do not know the error factors, and modeling approximations which leave out perhaps critical elements of the actual plant.
+]]></description>
+			<author>postmaster@open-psa.org (Administrator)</author>
+			<category>Open PSA Workshop 4 - Osaka 2007</category>
+			<pubDate>Sat, 16 Jan 2010 22:56:22 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

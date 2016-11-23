@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Open PSA - Resources - Resilience Engineering</title>
+		<description></description>
+		<image>
+			<title>Open PSA - Resources - Resilience Engineering</title>
+			<url>http://open-psa.org/joomla1.5/images/stories/folder_grey.png</url>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;catid=9&amp;Itemid=16</link>
+		</image>
+		<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;catid=9&amp;Itemid=16</link>
+		<lastBuildDate>Sun, 17 Jan 2016 10:26:17 +0100</lastBuildDate>
+		<generator>Sigsiu Online Business Index 2 FeedCreator</generator>
+		<item>
+			<title>Unexampled Events, Resilience, and PRA</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=9&amp;sobi2Id=23&amp;Itemid=16</link>
+			<description></description>
+			<pubDate>Sun, 17 Jan 2010 16:01:22 +0100</pubDate>
+		</item>
+		<item>
+			<title>2nd Symposium on Resilience Engineering - Program</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=9&amp;sobi2Id=22&amp;Itemid=16</link>
+			<description></description>
+			<pubDate>Sun, 17 Jan 2010 16:00:12 +0100</pubDate>
+		</item>
+	</channel>
+</rss>

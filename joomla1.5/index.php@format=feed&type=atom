@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Welcome to the Open PSA Initiative website</title>
+	<subtitle type="text">Website of the Open Initiative for Next Generation of Probabilistic Safety Assessment</subtitle>
+	<link rel="alternate" type="text/html" href="http://open-psa.org"/>
+	<id>http://open-psa.org/joomla1.5/index.php</id>
+	<updated>2016-01-17T09:21:30Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="http://open-psa.org/joomla1.5/index.php?format=feed&amp;type=atom" />
+	<entry>
+		<title>Open PSA Workshop 2012 - Presentations</title>
+		<link rel="alternate" type="text/html" href="http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=33:open-psa-workshop-2012-presentations&amp;catid=14:open-psa-workshop-7-clamart-2012&amp;Itemid=17"/>
+		<published>2013-02-03T09:44:00Z</published>
+		<updated>2013-02-03T09:44:00Z</updated>
+		<id>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=33:open-psa-workshop-2012-presentations&amp;catid=14:open-psa-workshop-7-clamart-2012&amp;Itemid=17</id>
+		<author>
+			<name>Administrator</name>
+		<email>postmaster@open-psa.org</email>
+		</author>
+		<summary type="html">&lt;p&gt;Presentations of Open PSA Workshop 2012 (December 11th and 12th, EdF R&amp;amp;D Clamart, France)&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Presentations of Open PSA Workshop 2012 (December 11th and 12th, EdF R&amp;amp;D Clamart, France)&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Open PSA Workshop 2012 - Call for Participation</title>
+		<link rel="alternate" type="text/html" href="http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=31:open-psa-workshop-2012-call-for-participation&amp;catid=14:open-psa-workshop-7-clamart-2012&amp;Itemid=17"/>
+		<published>2012-09-30T08:06:31Z</published>
+		<updated>2012-09-30T08:06:31Z</updated>
+		<id>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=31:open-psa-workshop-2012-call-for-participation&amp;catid=14:open-psa-workshop-7-clamart-2012&amp;Itemid=17</id>
+		<author>
+			<name>Administrator</name>
+		<email>postmaster@open-psa.org</email>
+		</author>
+		<summary type="html">&lt;h1&gt;Open-PSA Workshop, December 10th &amp;amp; 11th 2012, EdF R&amp;amp;D Clamart Paris, FRANCE&lt;/h1&gt;
+&lt;h2&gt;&lt;strong&gt;Next Generation PSA Software, Methods, and Model Representation Standards&lt;/strong&gt;&lt;/h2&gt;
+&lt;div class=&quot;WordSection1&quot;&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Call for Participation:&lt;/strong&gt; To meet and discuss efforts, visions, and future needs with regards to Software, PSA analysts, and model representations in large, safety critical PSA.  All attendees are encouraged to present ideas, work-in-progress, research, and production systems, especially in the following areas.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quantification Methods and Algorithms;&lt;/li&gt;
+&lt;li&gt;User Interfaces;&lt;/li&gt;
+&lt;li&gt;Declarative Modeling;&lt;/li&gt;
+&lt;li&gt;Standard Model Representations;&lt;/li&gt;
+&lt;li&gt;Data and Results Visualization;&lt;/li&gt;
+&lt;li&gt;Uncertainty;&lt;/li&gt;
+&lt;li&gt;Risk Assessment of Human Actions;&lt;/li&gt;
+&lt;li&gt;Modeling Styles and their Effects on Clarity and Quantification;&lt;/li&gt;
+&lt;li&gt;PSA Software Verification, Benchmarks, and Quality Assurance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;The workshop will be especially focused on propositions for an update of the Open-PSA representation format for Fault Tree and Event Tree models.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt;&lt;strong&gt;Invited Speaker: Professor Akira YAMAGUCHI, Osaka University, Chair of Risk Technology Committee for PRA standard development in the Atomic Energy Society of Japan&lt;/strong&gt;&lt;/h3&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;&lt;strong&gt;How to Participate:&lt;/strong&gt; Please send an eMail to Pr. Antoine Rauzy at &lt;a href=&quot;mailto:rauzy@lix.polytechnique.fr&quot;&gt;rauzy@lix.polytechnique.fr&lt;/a&gt; as soon as possible.  Please put the word “Open-PSA Workshop” in the subject line.  We will make every effort to make room for anyone who wants to talk, make a presentation, or make a demonstration.  This is an open forum for the exchange of ideas.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organizers:&lt;/strong&gt; This workshop is organized by Mohamed Hibti (EdF R&amp;amp;D, mohamed.hibti@edf.fr), Woody Epstein (Relcon Scandpower, sep@scandpower.com) and Pr. Antoine Rauzy (Ecole Polytechnique, &lt;a href=&quot;mailto:rauzy@lix.polytechnique.fr&quot;&gt;rauzy@lix.polytechnique.fr&lt;/a&gt;).  Please do not hesitate to contact any of the members of the organizing committee if you have any questions.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;h1&gt;Open-PSA Workshop, December 10th &amp;amp; 11th 2012, EdF R&amp;amp;D Clamart Paris, FRANCE&lt;/h1&gt;
+&lt;h2&gt;&lt;strong&gt;Next Generation PSA Software, Methods, and Model Representation Standards&lt;/strong&gt;&lt;/h2&gt;
+&lt;div class=&quot;WordSection1&quot;&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Call for Participation:&lt;/strong&gt; To meet and discuss efforts, visions, and future needs with regards to Software, PSA analysts, and model representations in large, safety critical PSA.  All attendees are encouraged to present ideas, work-in-progress, research, and production systems, especially in the following areas.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quantification Methods and Algorithms;&lt;/li&gt;
+&lt;li&gt;User Interfaces;&lt;/li&gt;
+&lt;li&gt;Declarative Modeling;&lt;/li&gt;
+&lt;li&gt;Standard Model Representations;&lt;/li&gt;
+&lt;li&gt;Data and Results Visualization;&lt;/li&gt;
+&lt;li&gt;Uncertainty;&lt;/li&gt;
+&lt;li&gt;Risk Assessment of Human Actions;&lt;/li&gt;
+&lt;li&gt;Modeling Styles and their Effects on Clarity and Quantification;&lt;/li&gt;
+&lt;li&gt;PSA Software Verification, Benchmarks, and Quality Assurance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;The workshop will be especially focused on propositions for an update of the Open-PSA representation format for Fault Tree and Event Tree models.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt;&lt;strong&gt;Invited Speaker: Professor Akira YAMAGUCHI, Osaka University, Chair of Risk Technology Committee for PRA standard development in the Atomic Energy Society of Japan&lt;/strong&gt;&lt;/h3&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;&lt;strong&gt;How to Participate:&lt;/strong&gt; Please send an eMail to Pr. Antoine Rauzy at &lt;a href=&quot;mailto:rauzy@lix.polytechnique.fr&quot;&gt;rauzy@lix.polytechnique.fr&lt;/a&gt; as soon as possible.  Please put the word “Open-PSA Workshop” in the subject line.  We will make every effort to make room for anyone who wants to talk, make a presentation, or make a demonstration.  This is an open forum for the exchange of ideas.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organizers:&lt;/strong&gt; This workshop is organized by Mohamed Hibti (EdF R&amp;amp;D, mohamed.hibti@edf.fr), Woody Epstein (Relcon Scandpower, sep@scandpower.com) and Pr. Antoine Rauzy (Ecole Polytechnique, &lt;a href=&quot;mailto:rauzy@lix.polytechnique.fr&quot;&gt;rauzy@lix.polytechnique.fr&lt;/a&gt;).  Please do not hesitate to contact any of the members of the organizing committee if you have any questions.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Open PSA Model Exchange Format v2.0d</title>
+		<link rel="alternate" type="text/html" href="http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=27:open-psa-model-exchange-format-v20d&amp;catid=4:open-psa-model-exchange-format&amp;Itemid=19"/>
+		<published>2008-05-12T16:58:18Z</published>
+		<updated>2008-05-12T16:58:18Z</updated>
+		<id>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=27:open-psa-model-exchange-format-v20d&amp;catid=4:open-psa-model-exchange-format&amp;Itemid=19</id>
+		<author>
+			<name>Administrator</name>
+		<email>postmaster@open-psa.org</email>
+		</author>
+		<summary type="html">&lt;p&gt;The standard draft version 2.0d is the latest version of the standard.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;The standard draft version 2.0d is the latest version of the standard.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+	</entry>
+</feed>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Open PSA - Resources - New PSA Paradigms</title>
+		<description> New paradigms which try to go beyond the traditional fault tree/event tree methods.</description>
+		<image>
+			<title>Open PSA - Resources - New PSA Paradigms</title>
+			<url>http://open-psa.org/joomla1.5/images/stories/folder_grey.png</url>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;catid=6&amp;Itemid=16</link>
+		</image>
+		<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;catid=6&amp;Itemid=16</link>
+		<lastBuildDate>Sun, 17 Jan 2016 10:26:16 +0100</lastBuildDate>
+		<generator>Sigsiu Online Business Index 2 FeedCreator</generator>
+		<item>
+			<title>Functional Resonance</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=6&amp;sobi2Id=18&amp;Itemid=16</link>
+			<description> A wonderful presentation by Dr. Erik Hollnagel explaining the Functional Resonance paradigm, incorporating elements from his Common Performace Conditions from the CREME HRA methodology.</description>
+			<pubDate>Sun, 17 Jan 2010 15:49:27 +0100</pubDate>
+		</item>
+		<item>
+			<title>A Functional Resonance Accident Model</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=6&amp;sobi2Id=17&amp;Itemid=16</link>
+			<description> A new way of modeling human actions, invented by Dr. Erik Hollnagel of Ecole des Mines.
+ This paper, written in conjunction with Captain Orjan Goteman, a pilot with SAS, uses this paradigm to investigate pilot actions with respect to area navigation equipment and errors in flight.</description>
+			<pubDate>Sun, 17 Jan 2010 15:47:12 +0100</pubDate>
+		</item>
+		<item>
+			<title>A Dynamic Fault Tree</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=6&amp;sobi2Id=16&amp;Itemid=16</link>
+			<description> A paper by Marco Cepin and Borut Mavko extends classical event trees by adding time requirements, especially useful to model outages and human actions.</description>
+			<pubDate>Sun, 17 Jan 2010 15:43:13 +0100</pubDate>
+		</item>
+	</channel>
+</rss>

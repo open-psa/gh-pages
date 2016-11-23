@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Open PSA Model Exchange Format</title>
+		<description>Website of the Open Initiative for Next Generation of Probabilistic Safety Assessment</description>
+		<link>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=category&amp;id=4&amp;Itemid=19</link>
+		<lastBuildDate>Sun, 17 Jan 2016 09:23:15 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>en-gb</language>
+		<item>
+			<title>Open PSA Model Exchange Format v2.0d</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=27:open-psa-model-exchange-format-v20d&amp;catid=4:open-psa-model-exchange-format&amp;Itemid=19</link>
+			<guid>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=27:open-psa-model-exchange-format-v20d&amp;catid=4:open-psa-model-exchange-format&amp;Itemid=19</guid>
+			<description><![CDATA[<p>The standard draft version 2.0d is the latest version of the standard.</p>
+<p> </p>]]></description>
+			<author>postmaster@open-psa.org (Administrator)</author>
+			<category>Open PSA Model Exchange Format</category>
+			<pubDate>Mon, 12 May 2008 16:58:18 +0000</pubDate>
+		</item>
+		<item>
+			<title>Open PSA Model Exchange Format v1.0c</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=7:standard-draft-v10c&amp;catid=4:open-psa-model-exchange-format&amp;Itemid=19</link>
+			<guid>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=7:standard-draft-v10c&amp;catid=4:open-psa-model-exchange-format&amp;Itemid=19</guid>
+			<description><![CDATA[<p>The standard draft version 1.0c is the latest version of the standard.</p>
+]]></description>
+			<author>postmaster@open-psa.org (Administrator)</author>
+			<category>Open PSA Model Exchange Format</category>
+			<pubDate>Tue, 17 Jul 2007 11:44:06 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

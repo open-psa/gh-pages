@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Open PSA - Resources - Uncertainty</title>
+		<description></description>
+		<image>
+			<title>Open PSA - Resources - Uncertainty</title>
+			<url>http://open-psa.org/joomla1.5/images/stories/folder_grey.png</url>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;catid=12&amp;Itemid=16</link>
+		</image>
+		<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;catid=12&amp;Itemid=16</link>
+		<lastBuildDate>Sun, 17 Jan 2016 10:26:18 +0100</lastBuildDate>
+		<generator>Sigsiu Online Business Index 2 FeedCreator</generator>
+		<item>
+			<title>The Problem of Induction</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=12&amp;sobi2Id=32&amp;Itemid=16</link>
+			<description></description>
+			<pubDate>Sun, 17 Jan 2010 16:24:07 +0100</pubDate>
+		</item>
+		<item>
+			<title>Non Standard Probabilistic and Non Probabilistic Representations of Uncertainty</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=12&amp;sobi2Id=31&amp;Itemid=16</link>
+			<description></description>
+			<pubDate>Sun, 17 Jan 2010 16:23:16 +0100</pubDate>
+		</item>
+		<item>
+			<title>Input Model Uncertainty: Why Do We Care and What Should We Do About It?</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=12&amp;sobi2Id=30&amp;Itemid=16</link>
+			<description></description>
+			<pubDate>Sun, 17 Jan 2010 16:21:26 +0100</pubDate>
+		</item>
+		<item>
+			<title>Inside and Outside Probability Judgment</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=12&amp;sobi2Id=29&amp;Itemid=16</link>
+			<description></description>
+			<pubDate>Sun, 17 Jan 2010 16:20:16 +0100</pubDate>
+		</item>
+		<item>
+			<title>Imperfect Information: Imprecision   Uncertainty</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=12&amp;sobi2Id=28&amp;Itemid=16</link>
+			<description></description>
+			<pubDate>Sun, 17 Jan 2010 16:19:34 +0100</pubDate>
+		</item>
+		<item>
+			<title>Expert Aggregation With Dependence</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=12&amp;sobi2Id=27&amp;Itemid=16</link>
+			<description></description>
+			<pubDate>Sun, 17 Jan 2010 16:17:45 +0100</pubDate>
+		</item>
+	</channel>
+</rss>

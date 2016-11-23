@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Open PSA - Resources - Roger Cooke</title>
+		<description></description>
+		<image>
+			<title>Open PSA - Resources - Roger Cooke</title>
+			<url>http://open-psa.org/joomla1.5/images/stories/folder_grey.png</url>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;catid=10&amp;Itemid=16</link>
+		</image>
+		<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;catid=10&amp;Itemid=16</link>
+		<lastBuildDate>Sun, 17 Jan 2016 10:26:18 +0100</lastBuildDate>
+		<generator>Sigsiu Online Business Index 2 FeedCreator</generator>
+		<item>
+			<title>The Anatomy of the Squizzel</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=10&amp;sobi2Id=25&amp;Itemid=16</link>
+			<description> The role of operational definitions in representing uncertainty.</description>
+			<pubDate>Sun, 17 Jan 2010 16:03:13 +0100</pubDate>
+		</item>
+		<item>
+			<title>The Way We Will Be in 2057</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=10&amp;sobi2Id=24&amp;Itemid=16</link>
+			<description></description>
+			<pubDate>Sun, 17 Jan 2010 16:02:32 +0100</pubDate>
+		</item>
+	</channel>
+</rss>

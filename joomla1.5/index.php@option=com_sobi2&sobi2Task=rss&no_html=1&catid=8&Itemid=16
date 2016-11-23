@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Open PSA - Resources - Problems with Classical PSA</title>
+		<description></description>
+		<image>
+			<title>Open PSA - Resources - Problems with Classical PSA</title>
+			<url>http://open-psa.org/joomla1.5/images/stories/folder_grey.png</url>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;catid=8&amp;Itemid=16</link>
+		</image>
+		<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;catid=8&amp;Itemid=16</link>
+		<lastBuildDate>Sun, 17 Jan 2016 10:26:17 +0100</lastBuildDate>
+		<generator>Sigsiu Online Business Index 2 FeedCreator</generator>
+		<item>
+			<title>You Can’t Just Build Trees and Call It PSA</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=8&amp;sobi2Id=21&amp;Itemid=16</link>
+			<description></description>
+			<pubDate>Sun, 17 Jan 2010 15:57:13 +0100</pubDate>
+		</item>
+		<item>
+			<title>Can We Trust PRA?</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=8&amp;sobi2Id=20&amp;Itemid=16</link>
+			<description></description>
+			<pubDate>Sun, 17 Jan 2010 15:56:13 +0100</pubDate>
+		</item>
+	</channel>
+</rss>

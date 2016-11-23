@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Open PSA Model Exchange Format</title>
+	<subtitle type="text">Website of the Open Initiative for Next Generation of Probabilistic Safety Assessment</subtitle>
+	<link rel="alternate" type="text/html" href="http://open-psa.org"/>
+	<id>http://open-psa.org/joomla1.5/index.php</id>
+	<updated>2016-01-17T09:23:15Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=category&amp;id=4&amp;Itemid=19&amp;format=feed&amp;type=atom" />
+	<entry>
+		<title>Open PSA Model Exchange Format v2.0d</title>
+		<link rel="alternate" type="text/html" href="http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=27:open-psa-model-exchange-format-v20d&amp;catid=4:open-psa-model-exchange-format&amp;Itemid=19"/>
+		<published>2008-05-12T16:58:18Z</published>
+		<updated>2008-05-12T16:58:18Z</updated>
+		<id>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=27:open-psa-model-exchange-format-v20d&amp;catid=4:open-psa-model-exchange-format&amp;Itemid=19</id>
+		<author>
+			<name>Administrator</name>
+		<email>postmaster@open-psa.org</email>
+		</author>
+		<summary type="html">&lt;p&gt;The standard draft version 2.0d is the latest version of the standard.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;The standard draft version 2.0d is the latest version of the standard.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Open PSA Model Exchange Format v1.0c</title>
+		<link rel="alternate" type="text/html" href="http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=7:standard-draft-v10c&amp;catid=4:open-psa-model-exchange-format&amp;Itemid=19"/>
+		<published>2007-07-17T11:44:06Z</published>
+		<updated>2007-07-17T11:44:06Z</updated>
+		<id>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=7:standard-draft-v10c&amp;catid=4:open-psa-model-exchange-format&amp;Itemid=19</id>
+		<author>
+			<name>Administrator</name>
+		<email>postmaster@open-psa.org</email>
+		</author>
+		<summary type="html">&lt;p&gt;The standard draft version 1.0c is the latest version of the standard.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;The standard draft version 1.0c is the latest version of the standard.&lt;/p&gt;
+</content>
+	</entry>
+</feed>

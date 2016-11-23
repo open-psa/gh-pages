@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Open PSA Workshop 5 - Vienna 2007</title>
+	<subtitle type="text">Website of the Open Initiative for Next Generation of Probabilistic Safety Assessment</subtitle>
+	<link rel="alternate" type="text/html" href="http://open-psa.org"/>
+	<id>http://open-psa.org/joomla1.5/index.php</id>
+	<updated>2016-01-17T09:23:38Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=category&amp;id=10%3Aopen-psa-workshop-5-vienna-2007&amp;Itemid=9&amp;layout=default&amp;format=feed&amp;type=atom" />
+	<entry>
+		<title>Call for Participation</title>
+		<link rel="alternate" type="text/html" href="http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=23:call-for-participation&amp;catid=10:open-psa-workshop-5-vienna-2007&amp;Itemid=9"/>
+		<published>2010-01-16T23:20:54Z</published>
+		<updated>2010-01-16T23:20:54Z</updated>
+		<id>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=23:call-for-participation&amp;catid=10:open-psa-workshop-5-vienna-2007&amp;Itemid=9</id>
+		<author>
+			<name>Administrator</name>
+		<email>postmaster@open-psa.org</email>
+		</author>
+		<summary type="html">&lt;h1&gt;Next Generation Probabilistic Safety Assessment&lt;/h1&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;December 6th and 7th, 2007&lt;br /&gt; IAEA, Vienna&lt;/p&gt;
+&lt;h2&gt;Call for Participation&lt;/h2&gt;
+&lt;p&gt;To meet and discuss efforts, visions, and future needs in large, safety critical PSA. PSA analysts, software companies, regulators, managers, and policy makers are especially encouraged to attend and to present ideas, work-in-progress, research, and production systems, especially in the following areas:
+</summary>
+		<content type="html">&lt;h1&gt;Next Generation Probabilistic Safety Assessment&lt;/h1&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;December 6th and 7th, 2007&lt;br /&gt; IAEA, Vienna&lt;/p&gt;
+&lt;h2&gt;Call for Participation&lt;/h2&gt;
+&lt;p&gt;To meet and discuss efforts, visions, and future needs in large, safety critical PSA. PSA analysts, software companies, regulators, managers, and policy makers are especially encouraged to attend and to present ideas, work-in-progress, research, and production systems, especially in the following areas:
+</content>
+	</entry>
+</feed>

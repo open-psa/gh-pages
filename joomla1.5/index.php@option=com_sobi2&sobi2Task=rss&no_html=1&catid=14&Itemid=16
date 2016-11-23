@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Open PSA - Resources - IDAC</title>
+		<description> Cognitive modeling and dynamic probabilistic simulation of operating crew response to complex system accidents</description>
+		<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;catid=14&amp;Itemid=16</link>
+		<lastBuildDate>Sun, 17 Jan 2016 10:26:16 +0100</lastBuildDate>
+		<generator>Sigsiu Online Business Index 2 FeedCreator</generator>
+		<item>
+			<title>Part 5: Dynamic probabilistic simulation of the IDAC model</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=14&amp;sobi2Id=13&amp;Itemid=16</link>
+			<description></description>
+			<pubDate>Sun, 17 Jan 2010 15:39:54 +0100</pubDate>
+		</item>
+		<item>
+			<title>Part 4: IDAC causal model of operator problem-solving response</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=14&amp;sobi2Id=12&amp;Itemid=16</link>
+			<description></description>
+			<pubDate>Sun, 17 Jan 2010 15:39:15 +0100</pubDate>
+		</item>
+		<item>
+			<title>Part 3: IDAC operator response model</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=14&amp;sobi2Id=11&amp;Itemid=16</link>
+			<description></description>
+			<pubDate>Sun, 17 Jan 2010 15:38:28 +0100</pubDate>
+		</item>
+		<item>
+			<title>Part 2: IDAC performance influencing factors model</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=14&amp;sobi2Id=10&amp;Itemid=16</link>
+			<description></description>
+			<pubDate>Sun, 17 Jan 2010 15:37:35 +0100</pubDate>
+		</item>
+	</channel>
+</rss>

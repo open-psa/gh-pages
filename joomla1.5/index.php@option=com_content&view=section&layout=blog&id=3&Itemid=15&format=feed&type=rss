@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>About Us</title>
+		<description>Website of the Open Initiative for Next Generation of Probabilistic Safety Assessment</description>
+		<link>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=section&amp;id=3&amp;layout=blog&amp;Itemid=15</link>
+		<lastBuildDate>Sun, 17 Jan 2016 09:23:12 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>en-gb</language>
+		<item>
+			<title>Who are we?</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=26:who-are-we&amp;catid=13:uncategorized&amp;Itemid=15</link>
+			<guid>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=26:who-are-we&amp;catid=13:uncategorized&amp;Itemid=15</guid>
+			<description><![CDATA[<h1>The Open Initiative for Next Generation of Probabilistic Safety Assessment</h1>
+<p>As we enter a time in which safety and reliability have come to the attention of the public, especially in the face of climate change and a nuclear renaissance, efforts are being made in the direction of the “next generation” of Probabilistic Safety Assessment with regards to software and methods. These new initiatives hope to present a more informative view of the actual systems, components, and interactions which PSA models represent in order to help decision makers go forward into the future.</p>
+]]></description>
+			<author>postmaster@open-psa.org (Administrator)</author>
+			<category>Uncategorized</category>
+			<pubDate>Sun, 17 Jan 2010 16:40:25 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

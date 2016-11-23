@@ -1,0 +1,445 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="search, directory, find, Resources" />
+  <meta name="description" content="Search function. Resources. [FIXME]" />
+  <meta name="generator" content="Sigsiu Online Business Index - Resources" />
+  <title>Resources - Search</title>
+  <link href="templates/ja_purity/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <script type="text/javascript" src="media/system/js/mootools.js"></script>
+  <link rel="stylesheet" href="components/com_sobi2/includes/com_sobi2.css" type="text/css" />
+  <link rel='StyleSheet' href='components/com_sobi2/plugins/download/download.css' type='text/css' />
+  <link rel="alternate" type="application/rss+xml" title="Resources" href="index.php@option=com_sobi2&amp;sobi2Task=rss&amp;no_html=1&amp;Itemid=16" />
+  <script type="text/javascript" src="components/com_sobi2/includes/js/mootools.js"></script>
+  <script type="text/javascript">
+		 /* <![CDATA[ */
+			var Sobi2FieldNames = new Array();
+			
+			Sobi2FieldNames[0] = "field_postcode";
+			Sobi2FieldNames[1] = "field_city";
+			Sobi2FieldNames[2] = "field_county";
+			Sobi2FieldNames[3] = "field_federal_state";
+			Sobi2FieldNames[4] = "field_country";
+			function resetSobi2SearchForm() {
+			
+			var SobiCookieRemove = " = 0; expires=0; path=/;";
+							$('sobi2Search').value = "Search ... ";
+				document.cookie = "sobi2SearchCookie[sobi2Search]" + SobiCookieRemove;
+							$("searchphraseany").checked = true;
+				document.cookie = "sobi2SearchCookie[searchphrase]" + SobiCookieRemove;
+							$("sobiCid").value = 0;
+				document.cookie = "sobi2SearchCookie[cid]" + SobiCookieRemove;
+				$("SobiSearchPage").value = 0;
+				document.cookie = "sobi2SearchCookie[SobiSearchPage]" + SobiCookieRemove;
+								for(i=0; i < Sobi2FieldNames.length; i++) {
+					$(Sobi2FieldNames[i]).selectedIndex = 0;
+					document.cookie = "sobi2SearchCookie[" + Sobi2FieldNames[i] + "]" + SobiCookieRemove;
+				}
+								for(SobiSearchFormComboBxCounter; SobiSearchFormComboBxCounter > 0; SobiSearchFormComboBxCounter--) {
+					if(SobiSearchFormComboBxCounter > 0) {
+						chBox = document.getElementById("sdrops_" + SobiSearchFormComboBxCounter);
+						chBox.parentNode.removeChild(chBox);
+					}
+				}
+				SobiSearchFormComboBxCounter = 0;
+				$("SobiCatSelected_0").selectedIndex = 0;
+							}
+		 	window.addEvent('load', function() {
+		 		var sobiSearchResponseContainer = new Fx.Slide('sobiSearchResponseContainer');
+		 					var sobiSearchFormExtOpt = new Fx.Slide('sobiSearchFormExtOpt');
+							sobiSearchFormExtOpt.slideOut();
+							$('sobiSearchFormExtOptToggle').addEvent('click', function(e){
+					e = new Event(e);
+					sobiSearchFormExtOpt.toggle();
+					e.stop();
+				});
+							$('sobiSearchFormContainer').addEvent('submit', function(e) {
+					new Event(e).stop();
+					var log = $('sobiSearchResponseContainer').empty().addClass('ajax-loading');
+					var url = "http://open-psa.org/joomla1.5/index2.php?" + $('sobiSearchFormContainer').toQueryString();
+					var query = new Ajax(url, {
+						method: 'get',
+						onComplete: function() {
+							log.removeClass('ajax-loading');
+						},
+						update: log
+					});
+					query.request();
+								sobiSearchFormExtOpt.slideOut();
+							});
+						});
+			var SobiSearchFormComboBxCounter = 0;
+			var SobiSearchFormCatsChilds = new Array();
+			var SobiSearchFormCatsNames = new Array();
+			function addSobiSearchFormCatBox(cid, c) {
+				if(cid == 0) {
+					if(c == 0) {
+						$("sobiCid").value = cid;
+					}
+					else {
+						box = c - 1;
+						$("sobiCid").value = $("SobiCatSelected_" + box).options[$("SobiCatSelected_" + box).selectedIndex].value;
+					}
+					if(c < SobiSearchFormComboBxCounter) {
+						for(SobiSearchFormComboBxCounter; SobiSearchFormComboBxCounter > c; SobiSearchFormComboBxCounter--) {
+							if(SobiSearchFormComboBxCounter > 0) {
+								chBox = document.getElementById("sdrops_" + SobiSearchFormComboBxCounter);
+								chBox.parentNode.removeChild(chBox);
+							}
+						}
+						SobiSearchFormComboBxCounter = c;
+					}
+				}
+				if(cid != 0) {
+					$("sobiCid").value = cid;
+					url = "http://open-psa.org/joomla1.5/index2.php?option=com_sobi2&no_html=1&sobi2Task=SigsiuTreeMenu&Itemid=16&catid=" + cid;
+					SobiSearchFormComboSendRequest(url,c);
+				}
+			}
+						function SobiSearchFormComboSendRequest(url,c) {
+		    	var SobiSearchFormCatHttpRequest;
+		        if (window.XMLHttpRequest) {
+		            SobiSearchFormCatHttpRequest = new XMLHttpRequest();
+		            if (SobiSearchFormCatHttpRequest.overrideMimeType) {
+		                SobiSearchFormCatHttpRequest.overrideMimeType('text/xml');
+		            }
+		        }
+		        else if (window.ActiveXObject) {
+		            try { SobiSearchFormCatHttpRequest = new ActiveXObject("Msxml2.XMLHTTP"); }
+		                catch (e) {
+                           try { SobiSearchFormCatHttpRequest = new ActiveXObject("Microsoft.XMLHTTP"); }
+		                   catch (e) {}
+		                 }
+		        }
+		        if (!SobiSearchFormCatHttpRequest) {
+		            alert('Sorry but I Cannot create an XMLHTTP instance');
+		            return false;
+		        }
+		        SobiSearchFormCatHttpRequest.onreadystatechange = function() {
+			  	if (SobiSearchFormCatHttpRequest.readyState == 4 && SobiSearchFormCatHttpRequest.status == 200)
+			    	SobiSearchFormCatGetSubcats(SobiSearchFormCatHttpRequest,c);
+				};
+		        SobiSearchFormCatHttpRequest.open('GET', url, true);
+		        SobiSearchFormCatHttpRequest.send(null);
+			}
+			function SobiSearchFormCatGetSubcats(XMLDoc,c) {
+				if(!XMLDoc.responseXML) {
+					return null;
+				}
+				var r = XMLDoc.responseXML;
+				var categories = r.getElementsByTagName("category");
+				if(c < SobiSearchFormComboBxCounter) {
+					for(SobiSearchFormComboBxCounter; SobiSearchFormComboBxCounter > c; SobiSearchFormComboBxCounter--) {
+						if(SobiSearchFormComboBxCounter > 0) {
+							chBox = document.getElementById("sdrops_" + SobiSearchFormComboBxCounter);
+							chBox.parentNode.removeChild(chBox);
+						}
+					}
+					SobiSearchFormComboBxCounter = c;
+				}
+				if(categories.length > 0) {
+					SobiSearchFormComboBxCounter++;
+					html = "";
+					html = html + "<div id='sdrops_"+SobiSearchFormComboBxCounter+"'><select class='inputbox catChooseBox' id='SobiCatSelected_" + SobiSearchFormComboBxCounter + "' onclick='addSobiSearchFormCatBox(this.options[this.selectedIndex].value," + SobiSearchFormComboBxCounter + ");'><option value='0'>&nbsp;---- select ----&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>"
+					for(i = 0; i < categories.length; i++) {
+						var category = categories[i];
+						var catid = category.getElementsByTagName('catid').item(0).firstChild.data;
+						var name = category.getElementsByTagName('name').item(0).firstChild.data;
+						var childs = category.getElementsByTagName('childs').item(0).firstChild.data;
+						var pid = category.getElementsByTagName('parentid').item(0).firstChild.data;
+						name = name.replace("\\", "");
+						SobiSearchFormCatsNames[catid] = name;
+						html = html + "<option value='"+catid+"'>"+name+"</option>"
+						SobiSearchFormCatsChilds[catid] = childs;
+					}
+					html = html + "</select>\n\n</div>";
+					span = document.createElement("span");
+					span.innerHTML = html;
+					document.getElementById("SobiSearchForm2dropsy").appendChild(span);
+				}
+							}
+			function sobiSearchRes(page) {
+	 			$('SobiSearchPage').value = page;
+				$('sobiSearchSubmitBt').click();
+			}
+		/* ]]> */
+		</script>
+		<style type="text/css">
+		<!--
+			#sobiSearchResponseContainer.ajax-loading {
+				padding: 20px 0;
+				background: url(components/com_sobi2/images/spinner.gif) no-repeat center;
+			}
+		-->
+		 </style>
+
+
+<link rel="stylesheet" href="templates/system/css/system.css" type="text/css" />
+<link rel="stylesheet" href="templates/system/css/general.css" type="text/css" />
+<link rel="stylesheet" href="templates/ja_purity/css/template.css" type="text/css" />
+
+<script language="javascript" type="text/javascript" src="templates/ja_purity/js/ja.script.js"></script>
+
+<script language="javascript" type="text/javascript">
+var rightCollapseDefault='show';
+var excludeModules='38';
+</script>
+<script language="javascript" type="text/javascript" src="templates/ja_purity/js/ja.rightcol.js"></script>
+
+<link rel="stylesheet" href="templates/ja_purity/css/menu.css" type="text/css" />
+
+
+<link rel="stylesheet" href="templates/ja_purity/styles/header/blue/style.css" type="text/css" />
+<link rel="stylesheet" href="templates/ja_purity/styles/background/lighter/style.css" type="text/css" />
+<link rel="stylesheet" href="templates/ja_purity/styles/elements/blue/style.css" type="text/css" />
+
+<!--[if IE 7.0]>
+<style type="text/css">
+.clearfix {display: inline-block;}
+</style>
+<![endif]-->
+
+<style type="text/css">
+#ja-header,#ja-mainnav,#ja-container,#ja-botsl,#ja-footer {width: 97%;margin: 0 auto;}
+#ja-wrapper {min-width: 100%;}
+</style>
+</head>
+
+<body id="bd" class="fs3 Others" >
+<a name="Top" id="Top"></a>
+<ul class="accessibility">
+	<li><a href="index.php@option=com_sobi2&amp;sobi2Task=search&amp;Itemid=16.html#ja-content" title="Skip to content">Skip to content</a></li>
+	<li><a href="index.php@option=com_sobi2&amp;sobi2Task=search&amp;Itemid=16.html#ja-mainnav" title="Skip to main navigation">Skip to main navigation</a></li>
+	<li><a href="index.php@option=com_sobi2&amp;sobi2Task=search&amp;Itemid=16.html#ja-col1" title="Skip to first column">Skip to first column</a></li>
+	<li><a href="index.php@option=com_sobi2&amp;sobi2Task=search&amp;Itemid=16.html#ja-col2" title="Skip to second column">Skip to second column</a></li>
+</ul>
+
+<div id="ja-wrapper">
+
+<!-- BEGIN: HEADER -->
+<div id="ja-headerwrap">
+	<div id="ja-header" class="clearfix" style="background: url(templates/ja_purity/images/header/header3.jpg) no-repeat top right;">
+
+	<div class="ja-headermask">&nbsp;</div>
+
+			<h1 class="logo">
+			<a href="index.php.html" title="Open PSA"><span>Open PSA</span></a>
+		</h1>
+	
+			<ul class="ja-usertools-font">
+	      <li><img style="cursor: pointer;" title="Increase font size" src="templates/ja_purity/images/user-increase.png" alt="Increase font size" id="ja-tool-increase" onclick="switchFontSize('ja_purity_ja_font','inc'); return false;" /></li>
+		  <li><img style="cursor: pointer;" title="Default font size" src="templates/ja_purity/images/user-reset.png" alt="Default font size" id="ja-tool-reset" onclick="switchFontSize('ja_purity_ja_font',3); return false;" /></li>
+		  <li><img style="cursor: pointer;" title="Decrease font size" src="templates/ja_purity/images/user-decrease.png" alt="Decrease font size" id="ja-tool-decrease" onclick="switchFontSize('ja_purity_ja_font','dec'); return false;" /></li>
+		</ul>
+		<script type="text/javascript">var CurrentFontSize=parseInt('3');</script>
+		
+	
+	</div>
+</div>
+<!-- END: HEADER -->
+
+<!-- BEGIN: MAIN NAVIGATION -->
+<!-- END: MAIN NAVIGATION -->
+
+<div id="ja-containerwrap-fr">
+<div id="ja-containerwrap2">
+	<div id="ja-container">
+	<div id="ja-container2" class="clearfix">
+
+		<div id="ja-mainbody-fr" class="clearfix">
+
+		<!-- BEGIN: CONTENT -->
+		<div id="ja-contentwrap">
+		<div id="ja-content">
+
+			
+
+						<div id="ja-pathway">
+				
+			</div>
+			
+			
+<!-- Start of Sigsiu Online Business Index 2 component -->
+<div class="componentheading">Resources</div>
+<div class='sobi2'>
+
+
+
+<table class="sobi2Header">
+	<tr>
+		<td id="sobi2HeaderSearchLink"> <a class="sobi2Header" href="index.php@option=com_sobi2&amp;sobi2Task=search&amp;Itemid=16.html">Search</a> </td>
+	</tr>
+</table>
+
+
+
+	<form id="sobiSearchFormContainer" accept-charset="utf-8" action="http://open-psa.org/joomla1.5/index2.php" method="get" name="sobiSearchFormContainer">
+			<table class="sobi2eSearchForm">
+			<tr>
+				<td id="sobi2eSearchLabel">Search for: </td>
+				<td id="sobi2eSearchBox">
+											<input name="sobi2Search" id="sobi2Search" class="inputbox" value="Search ... " onclick="if (this.value == 'Search ... ') this.value = '';" onblur="if (this.value == '') this.value = 'Search ... ';"/>
+									</td>
+				<td id="sobi2eSearchButton">
+											<input type="submit" id="sobiSearchSubmitBt" name="search"  onmousedown="$('SobiSearchPage').value = 0" onkeydown="$('SobiSearchPage').value = 0" class="button" value="Search"/>
+									</td>
+				<td id="sobi2eSearchEmptyCell">
+				</td>
+			</tr>
+			<tr>
+				<td colspan="4" id="sobi2eSearchPhrases">
+									<input type="radio" checked="checked" name="searchphrase" id="searchphraseany" value="any"   />
+					<label for="searchphraseany">Any words</label>
+													<input type="radio"  name="searchphrase" id="searchphraseall" value="all"  />
+					<label for="searchphraseall">All words</label>
+													<input type="radio"  name="searchphrase" id="searchphraseexact" value="exact"  />
+					<label for="searchphraseexact">Exact phrase</label>
+								</td>
+			</tr>
+			<tr>
+				<td colspan="4" id="sobi2eSearchButtonLine">
+													<input type="button" id="sobiSearchFormExtOptToggle" class="button" name="sobiSearchFormExtOptToggle" value="Extended Search Options"/>
+									<input type="button" id="sobiSearchFormReset" class="button" name="sobiSearchFormReset" title="Clear search form selections" value="Clear Selections" onclick="resetSobi2SearchForm()"/>
+					<br/><br/>
+				</td>
+			</tr>
+			</table>
+			<div id="sobiSearchFormExtOpt">
+			<table class="sobi2eSearchForm">
+			<tr><td class="sobi2eSearchLabel">Postcode</td><td colspan='2'>
+<select name="field_postcode" size="1" class="inputbox" id="field_postcode" >
+	<option value="all" >&nbsp;---- select ----&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>
+</select>
+</td></tr><tr><td class="sobi2eSearchLabel">City</td><td colspan='2'>
+<select name="field_city" size="1" class="inputbox" id="field_city" >
+	<option value="all" >&nbsp;---- select ----&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>
+</select>
+</td></tr><tr><td class="sobi2eSearchLabel">County</td><td colspan='2'>
+<select name="field_county" size="1" class="inputbox" id="field_county" >
+	<option value="all" >&nbsp;---- select ----&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>
+</select>
+</td></tr><tr><td class="sobi2eSearchLabel">Federal State</td><td colspan='2'>
+<select name="field_federal_state" size="1" class="inputbox" id="field_federal_state" >
+	<option value="all" >&nbsp;---- select ----&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>
+</select>
+</td></tr><tr><td class="sobi2eSearchLabel">Country</td><td colspan='2'>
+<select name="field_country" size="1" class="inputbox" id="field_country" >
+	<option value="all" >&nbsp;---- select ----&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>
+</select>
+</td></tr>						<tr>
+				<td style="vertical-align:top;">Select Category</td>
+				<td colspan='2'>
+									<div id="sobiSearchFormCatsSelection"  style="height:100px;" >
+										<div id="SobiSearchForm2dropsy" style="margin-left: 0px;">
+
+
+
+<div id='sdrops_0'>
+<select name="SobiCatSelected_0" id="SobiCatSelected_0" size="1" class="inputbox catChooseBox" onclick="addSobiSearchFormCatBox(this.options[this.selectedIndex].value,0);" >
+	<option value="0" >&nbsp;---- select ----&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>
+	<option value="3" >All</option>
+</select>
+</div>
+
+
+
+
+
+<script type="text/javascript">
+
+ 
+ SobiSearchFormCatsChilds[3] = '1';
+
+ SobiSearchFormComboBxCounter = 0; 
+
+</script></div>									</div>
+								</td>
+			</tr>
+									</table>
+			</div>
+						<input type="hidden" name="option" value="com_sobi2"/>
+			<input type="hidden" name="Itemid" value="16"/>
+			<input type="hidden" name="no_html" value="1"/>
+			<input type="hidden" name="sobi2Task" value="axSearch"/>
+			<input type="hidden" name="sobiCid" id="sobiCid" value="0"/>
+			<input type="hidden" id="SobiSearchPage" name="SobiSearchPage" value="0"/>
+	</form>
+	<div id="sobiSearchResponseContainer"></div>
+	
+ <table class="sobi2Footer"> 
+	 <tr><td id="sobi2Footer">Powered by <a title="SOBI2 - Joomla Directory Component" href="http://www.sigsiu.net" target="_blank">Sigsiu.NET</a></td>	 <td id="sobi2rss"><a href="index.php@option=com_sobi2&amp;sobi2Task=rss&amp;no_html=1&amp;Itemid=16" title="RSS Feeds"><img src="components/com_sobi2/images/feed.gif" alt="RSS Feeds"/></a></td></tr>	 <tr><td colspan="2"></td></tr>
+ </table>
+
+ </div> 
+
+<!-- end of Sigsiu Online Business Index 2 component Memory 3,666,936 / Time 0.12091588973999 / Queries: 0 --> 
+
+
+			
+		</div>
+		</div>
+		<!-- END: CONTENT -->
+
+				<!-- BEGIN: LEFT COLUMN -->
+		<div id="ja-col1">
+					<div class="moduletable_menu">
+					<h3>Open PSA Initiative</h3>
+					<ul class="menu"><li class="item15"><a href="index.php@option=com_content&amp;view=section&amp;layout=blog&amp;id=3&amp;Itemid=15.html"><span>About Us</span></a></li><li class="item1"><a href="index.html"><span>News</span></a></li><li class="parent item2"><a href="index.php@option=com_content&amp;view=section&amp;id=1&amp;Itemid=2.html"><span>Events</span></a></li></ul>		</div>
+			<div class="moduletable">
+					<h3>Resources</h3>
+					<ul class="menu"><li class="item19"><a href="index.php@option=com_content&amp;view=category&amp;id=4&amp;Itemid=19.html"><span>Open PSA Model Exchange Format</span></a></li><li id="current" class="active item16"><a href="index.php@option=com_sobi2&amp;Itemid=16.html"><span>Articles</span></a></li></ul>		</div>
+			<div class="moduletable">
+					<h3>Get Involved</h3>
+					<ul class="menu"><li class="item20"><a href="index.php@option=com_contact&amp;view=contact&amp;id=1&amp;Itemid=20.html"><span>Contact</span></a></li></ul>		</div>
+	
+		</div><br />
+		<!-- END: LEFT COLUMN -->
+		
+		</div>
+
+		
+	</div>
+	</div>
+</div>
+</div>
+
+
+<!-- BEGIN: FOOTER -->
+<div id="ja-footerwrap">
+<div id="ja-footer" class="clearfix">
+
+	<div id="ja-footnav">
+		
+	</div>
+
+	<div class="copyright">
+		
+	</div>
+
+	<div class="ja-cert">
+		
+    <a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank" title="Our site is valid CSS" style="text-decoration: none;">
+		<img src="templates/ja_purity/images/but-css.gif" border="none" alt="Our site is valid CSS" />
+		</a>
+		<a href="http://validator.w3.org/check/referer" target="_blank" title="Our site is valid XHTML 1.0 Transitional" style="text-decoration: none;">
+		<img src="templates/ja_purity/images/but-xhtml10.gif" border="none" alt="Our site is valid XHTML 1.0 Transitional" />
+		</a>
+	</div>
+
+	<br />
+</div>
+</div>
+<!-- END: FOOTER -->
+
+</div>
+
+
+
+</body>
+
+</html>

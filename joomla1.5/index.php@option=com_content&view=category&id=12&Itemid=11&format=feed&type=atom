@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Exchange Format Work Package 1 Group Meeting (10/21/2008)</title>
+	<subtitle type="text">Website of the Open Initiative for Next Generation of Probabilistic Safety Assessment</subtitle>
+	<link rel="alternate" type="text/html" href="http://open-psa.org"/>
+	<id>http://open-psa.org/joomla1.5/index.php</id>
+	<updated>2016-01-17T09:23:34Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=category&amp;id=12&amp;Itemid=11&amp;format=feed&amp;type=atom" />
+	<entry>
+		<title>Announcement</title>
+		<link rel="alternate" type="text/html" href="http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=25:announcement&amp;catid=12:exchange-format-work-package-1-group-meeting&amp;Itemid=11"/>
+		<published>2010-01-16T23:35:52Z</published>
+		<updated>2010-01-16T23:35:52Z</updated>
+		<id>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=25:announcement&amp;catid=12:exchange-format-work-package-1-group-meeting&amp;Itemid=11</id>
+		<author>
+			<name>Administrator</name>
+		<email>postmaster@open-psa.org</email>
+		</author>
+		<summary type="html">&lt;h1&gt;Exchange Format Work Package #1&lt;br /&gt; Project Group Meeting&lt;/h1&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;October 21st, 2008&lt;br /&gt; Dassault Systèmes&lt;br /&gt; 9 quai Marcel Dassault - 92150 SURESNES - FRANCE&lt;/p&gt;
+&lt;p&gt;The first meeting of the OPEN-PSA Work Package #1 will take place on October 21st from 10h30 to 16h at Dassault Systèmes. All Work Package participants and Exchange Format Project Group members are asked to participate. After a presentation of the participants around the table, we will discuss:
+</summary>
+		<content type="html">&lt;h1&gt;Exchange Format Work Package #1&lt;br /&gt; Project Group Meeting&lt;/h1&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;October 21st, 2008&lt;br /&gt; Dassault Systèmes&lt;br /&gt; 9 quai Marcel Dassault - 92150 SURESNES - FRANCE&lt;/p&gt;
+&lt;p&gt;The first meeting of the OPEN-PSA Work Package #1 will take place on October 21st from 10h30 to 16h at Dassault Systèmes. All Work Package participants and Exchange Format Project Group members are asked to participate. After a presentation of the participants around the table, we will discuss:
+</content>
+	</entry>
+</feed>

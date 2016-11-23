@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Open PSA - Resources - Human Risk and Reliability</title>
+		<description></description>
+		<image>
+			<title>Open PSA - Resources - Human Risk and Reliability</title>
+			<url>http://open-psa.org/joomla1.5/images/stories/folder_grey.png</url>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;catid=5&amp;Itemid=16</link>
+		</image>
+		<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;catid=5&amp;Itemid=16</link>
+		<lastBuildDate>Sun, 17 Jan 2016 10:26:16 +0100</lastBuildDate>
+		<generator>Sigsiu Online Business Index 2 FeedCreator</generator>
+		<item>
+			<title>Using an integrated process of data and modeling in HRA</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=5&amp;sobi2Id=15&amp;Itemid=16</link>
+			<description></description>
+			<pubDate>Sun, 17 Jan 2010 15:41:32 +0100</pubDate>
+		</item>
+		<item>
+			<title>Failures without errors: quantification of context in HRA</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=5&amp;sobi2Id=14&amp;Itemid=16</link>
+			<description></description>
+			<pubDate>Sun, 17 Jan 2010 15:40:31 +0100</pubDate>
+		</item>
+	</channel>
+</rss>

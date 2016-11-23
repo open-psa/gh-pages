@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Welcome to the Open PSA Initiative website</title>
+		<description>Website of the Open Initiative for Next Generation of Probabilistic Safety Assessment</description>
+		<link>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=frontpage</link>
+		<lastBuildDate>Sun, 17 Jan 2016 09:21:30 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>en-gb</language>
+		<item>
+			<title>Open PSA Workshop 2012 - Presentations</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=33:open-psa-workshop-2012-presentations&amp;catid=14:open-psa-workshop-7-clamart-2012&amp;Itemid=17</link>
+			<guid>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=33:open-psa-workshop-2012-presentations&amp;catid=14:open-psa-workshop-7-clamart-2012&amp;Itemid=17</guid>
+			<description><![CDATA[<p>Presentations of Open PSA Workshop 2012 (December 11th and 12th, EdF R&amp;D Clamart, France)</p>]]></description>
+			<author>postmaster@open-psa.org (Administrator)</author>
+			<category>frontpage</category>
+			<pubDate>Sun, 03 Feb 2013 09:44:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Open PSA Workshop 2012 - Call for Participation</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=31:open-psa-workshop-2012-call-for-participation&amp;catid=14:open-psa-workshop-7-clamart-2012&amp;Itemid=17</link>
+			<guid>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=31:open-psa-workshop-2012-call-for-participation&amp;catid=14:open-psa-workshop-7-clamart-2012&amp;Itemid=17</guid>
+			<description><![CDATA[<h1>Open-PSA Workshop, December 10th &amp; 11th 2012, EdF R&amp;D Clamart Paris, FRANCE</h1>
+<h2><strong>Next Generation PSA Software, Methods, and Model Representation Standards</strong></h2>
+<div class="WordSection1">
+<p class="MsoNormal" style="text-align: left;"><strong>Call for Participation:</strong> To meet and discuss efforts, visions, and future needs with regards to Software, PSA analysts, and model representations in large, safety critical PSA.  All attendees are encouraged to present ideas, work-in-progress, research, and production systems, especially in the following areas.</p>
+<ul>
+<li>Quantification Methods and Algorithms;</li>
+<li>User Interfaces;</li>
+<li>Declarative Modeling;</li>
+<li>Standard Model Representations;</li>
+<li>Data and Results Visualization;</li>
+<li>Uncertainty;</li>
+<li>Risk Assessment of Human Actions;</li>
+<li>Modeling Styles and their Effects on Clarity and Quantification;</li>
+<li>PSA Software Verification, Benchmarks, and Quality Assurance.</li>
+</ul>
+<p><strong>The workshop will be especially focused on propositions for an update of the Open-PSA representation format for Fault Tree and Event Tree models.</strong></p>
+</div>
+<h3><strong>Invited Speaker: Professor Akira YAMAGUCHI, Osaka University, Chair of Risk Technology Committee for PRA standard development in the Atomic Energy Society of Japan</strong></h3>
+<p class="MsoNormal"><strong>How to Participate:</strong> Please send an eMail to Pr. Antoine Rauzy at <a href="mailto:rauzy@lix.polytechnique.fr">rauzy@lix.polytechnique.fr</a> as soon as possible.  Please put the word “Open-PSA Workshop” in the subject line.  We will make every effort to make room for anyone who wants to talk, make a presentation, or make a demonstration.  This is an open forum for the exchange of ideas.</p>
+<p><strong>Organizers:</strong> This workshop is organized by Mohamed Hibti (EdF R&amp;D, mohamed.hibti@edf.fr), Woody Epstein (Relcon Scandpower, sep@scandpower.com) and Pr. Antoine Rauzy (Ecole Polytechnique, <a href="mailto:rauzy@lix.polytechnique.fr">rauzy@lix.polytechnique.fr</a>).  Please do not hesitate to contact any of the members of the organizing committee if you have any questions.</p>
+<p> </p>]]></description>
+			<author>postmaster@open-psa.org (Administrator)</author>
+			<category>frontpage</category>
+			<pubDate>Sun, 30 Sep 2012 08:06:31 +0000</pubDate>
+		</item>
+		<item>
+			<title>Open PSA Model Exchange Format v2.0d</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=27:open-psa-model-exchange-format-v20d&amp;catid=4:open-psa-model-exchange-format&amp;Itemid=19</link>
+			<guid>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=27:open-psa-model-exchange-format-v20d&amp;catid=4:open-psa-model-exchange-format&amp;Itemid=19</guid>
+			<description><![CDATA[<p>The standard draft version 2.0d is the latest version of the standard.</p>
+<p> </p>]]></description>
+			<author>postmaster@open-psa.org (Administrator)</author>
+			<category>frontpage</category>
+			<pubDate>Mon, 12 May 2008 16:58:18 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

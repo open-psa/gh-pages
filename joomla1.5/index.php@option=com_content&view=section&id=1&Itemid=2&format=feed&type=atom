@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Events</title>
+	<subtitle type="text">Website of the Open Initiative for Next Generation of Probabilistic Safety Assessment</subtitle>
+	<link rel="alternate" type="text/html" href="http://open-psa.org"/>
+	<id>http://open-psa.org/joomla1.5/index.php</id>
+	<updated>2016-01-17T09:23:06Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=section&amp;id=1&amp;Itemid=2&amp;format=feed&amp;type=atom" />
+	<entry>
+		<title>Open PSA Workshop 2012 - Presentations</title>
+		<link rel="alternate" type="text/html" href="http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=33:open-psa-workshop-2012-presentations&amp;catid=14:open-psa-workshop-7-clamart-2012&amp;Itemid=17"/>
+		<published>2013-02-03T09:44:00Z</published>
+		<updated>2013-02-03T09:44:00Z</updated>
+		<id>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=33:open-psa-workshop-2012-presentations&amp;catid=14:open-psa-workshop-7-clamart-2012&amp;Itemid=17</id>
+		<author>
+			<name>Administrator</name>
+		<email>postmaster@open-psa.org</email>
+		</author>
+		<summary type="html">&lt;p&gt;Presentations of Open PSA Workshop 2012 (December 11th and 12th, EdF R&amp;amp;D Clamart, France)&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Presentations of Open PSA Workshop 2012 (December 11th and 12th, EdF R&amp;amp;D Clamart, France)&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Open PSA Workshop 2012 - Program</title>
+		<link rel="alternate" type="text/html" href="http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=32:open-psa-workshop-2012-program&amp;catid=14:open-psa-workshop-7-clamart-2012&amp;Itemid=17"/>
+		<published>2012-12-20T14:52:08Z</published>
+		<updated>2012-12-20T14:52:08Z</updated>
+		<id>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=32:open-psa-workshop-2012-program&amp;catid=14:open-psa-workshop-7-clamart-2012&amp;Itemid=17</id>
+		<author>
+			<name>Administrator</name>
+		<email>postmaster@open-psa.org</email>
+		</author>
+		<summary type="html">&lt;div id=&quot;outline-container-1&quot; class=&quot;outline-2&quot;&gt;
+&lt;h2 id=&quot;sec-1&quot;&gt;Program    &lt;span class=&quot;tag&quot;&gt;&lt;span class=&quot;opsamef&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;div id=&quot;outline-container-1-1&quot; class=&quot;outline-3&quot;&gt;
+&lt;h3 id=&quot;sec-1-1&quot;&gt;Session 1: Monday 10:00-12:00&lt;/h3&gt;
+&lt;div id=&quot;outline-container-1-1-1&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-1-1&quot;&gt;Olivier Nusbaumer (KKL, Switzerland): &lt;strong&gt;Fault Tree Linking versus Event Tree Linking&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-1-2&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-1-2&quot;&gt;Ashraf El-Shanawany (Imperial College, England): &lt;strong&gt;Incorporating Success Criteria Uncertainty into PSA&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-1-3&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-1-3&quot;&gt;Yann Stempfel (KKL, Switzerland): &lt;strong&gt;Automatic Implementation of the KKL Seismic PSA - what we learned from this exercise for the development of new PSA Software&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-2&quot; class=&quot;outline-3&quot;&gt;
+&lt;h3 id=&quot;sec-1-2&quot;&gt;Session 2: Monday 13:30-15:00&lt;/h3&gt;
+&lt;div id=&quot;outline-container-1-2-1&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-2-1&quot;&gt;Jirina Vitázková (SNUS, Slovakia ): &lt;strong&gt;Risk measure Large Early Release Frequency (LERF) for Severe Nuclear Accidents&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-2-2&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-2-2&quot;&gt;Joachim Herb (GRS, Germany): &lt;strong&gt;Tools and procedures at GRS to automatically compare and modify fault and event trees&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-3&quot; class=&quot;outline-3&quot;&gt;
+&lt;h3 id=&quot;sec-1-3&quot;&gt;Session Open PSA Model Exchange Format (OPSA MEF): Monday 15:30-19:00&lt;/h3&gt;
+&lt;div id=&quot;outline-container-1-3-1&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-3-1&quot;&gt;Antoine Rauzy (Ecole Polytechnique, France): &lt;strong&gt;Brief overview of the Format&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-3-2&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-3-2&quot;&gt;Enrique Meléndez-Asensio (CSN, Spain): &lt;strong&gt;On the evolution of Dynamic PSA tools and methodology: applications of the Open PSA Model Exchange Format at CSN&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-3-3&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-3-3&quot;&gt;Thomas Friedlhuber (EdF &amp;amp; Ecole Polytechnique, France): &lt;strong&gt;Andromeda : A new Open PSA Worbench&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-3-4&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-3-4&quot;&gt;Cyrille Folleau (Satodev, France): &lt;strong&gt;Extensions and Improvements to the format&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-3-5&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-3-5&quot;&gt;Mohamed Hibti (EdF, France): &lt;strong&gt;Embedding Event Sequence Diagrams within the format&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-4&quot; class=&quot;outline-3&quot;&gt;
+&lt;h3 id=&quot;sec-1-4&quot;&gt;Session 3 Tuesday 09:00-10:30&lt;/h3&gt;
+&lt;div id=&quot;outline-container-1-4-1&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-4-1&quot;&gt;Yann Stempfel (KKL, Switzerland): &lt;strong&gt;Automation of the KKL PSA 'Results and Insights' Documentation&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-4-2&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-4-2&quot;&gt;Tero Tyrväinen (VTT, Finland): &lt;strong&gt;I&amp;amp;C modeling in FinPSA software.&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-4-3&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-4-3&quot;&gt;John Obama (IMdR, France): &lt;strong&gt;Contribution to a risk-informed assessment of the technical specifications of a nuclear power plant&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-5&quot; class=&quot;outline-3&quot;&gt;
+&lt;h3 id=&quot;sec-1-5&quot;&gt;Session 4 Tuesday 11:00-12:30&lt;/h3&gt;
+&lt;div id=&quot;outline-container-1-5-1&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-5-1&quot;&gt;Günter Becker (Risa, Germany): &lt;strong&gt;Requirements For A Post-Fukushima PSA Method&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-5-2&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-5-2&quot;&gt;Johan Sörman (Relcon Scandpower, Sweden): &lt;strong&gt;Developments of RiskSpectrum: what has been done in the past two years and what is forecasted&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-5-3&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-5-3&quot;&gt;Antoine Rauzy (Ecole Polytechnique, France): &lt;strong&gt;XFTA: An Open PSA calculation engine&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-6&quot; class=&quot;outline-3&quot;&gt;
+&lt;h3 id=&quot;sec-1-6&quot;&gt;Session 5 Tuesday 14:00-16:00&lt;/h3&gt;
+&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div id=&quot;outline-container-1&quot; class=&quot;outline-2&quot;&gt;
+&lt;h2 id=&quot;sec-1&quot;&gt;Program    &lt;span class=&quot;tag&quot;&gt;&lt;span class=&quot;opsamef&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;div id=&quot;outline-container-1-1&quot; class=&quot;outline-3&quot;&gt;
+&lt;h3 id=&quot;sec-1-1&quot;&gt;Session 1: Monday 10:00-12:00&lt;/h3&gt;
+&lt;div id=&quot;outline-container-1-1-1&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-1-1&quot;&gt;Olivier Nusbaumer (KKL, Switzerland): &lt;strong&gt;Fault Tree Linking versus Event Tree Linking&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-1-2&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-1-2&quot;&gt;Ashraf El-Shanawany (Imperial College, England): &lt;strong&gt;Incorporating Success Criteria Uncertainty into PSA&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-1-3&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-1-3&quot;&gt;Yann Stempfel (KKL, Switzerland): &lt;strong&gt;Automatic Implementation of the KKL Seismic PSA - what we learned from this exercise for the development of new PSA Software&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-2&quot; class=&quot;outline-3&quot;&gt;
+&lt;h3 id=&quot;sec-1-2&quot;&gt;Session 2: Monday 13:30-15:00&lt;/h3&gt;
+&lt;div id=&quot;outline-container-1-2-1&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-2-1&quot;&gt;Jirina Vitázková (SNUS, Slovakia ): &lt;strong&gt;Risk measure Large Early Release Frequency (LERF) for Severe Nuclear Accidents&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-2-2&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-2-2&quot;&gt;Joachim Herb (GRS, Germany): &lt;strong&gt;Tools and procedures at GRS to automatically compare and modify fault and event trees&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-3&quot; class=&quot;outline-3&quot;&gt;
+&lt;h3 id=&quot;sec-1-3&quot;&gt;Session Open PSA Model Exchange Format (OPSA MEF): Monday 15:30-19:00&lt;/h3&gt;
+&lt;div id=&quot;outline-container-1-3-1&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-3-1&quot;&gt;Antoine Rauzy (Ecole Polytechnique, France): &lt;strong&gt;Brief overview of the Format&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-3-2&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-3-2&quot;&gt;Enrique Meléndez-Asensio (CSN, Spain): &lt;strong&gt;On the evolution of Dynamic PSA tools and methodology: applications of the Open PSA Model Exchange Format at CSN&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-3-3&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-3-3&quot;&gt;Thomas Friedlhuber (EdF &amp;amp; Ecole Polytechnique, France): &lt;strong&gt;Andromeda : A new Open PSA Worbench&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-3-4&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-3-4&quot;&gt;Cyrille Folleau (Satodev, France): &lt;strong&gt;Extensions and Improvements to the format&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-3-5&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-3-5&quot;&gt;Mohamed Hibti (EdF, France): &lt;strong&gt;Embedding Event Sequence Diagrams within the format&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-4&quot; class=&quot;outline-3&quot;&gt;
+&lt;h3 id=&quot;sec-1-4&quot;&gt;Session 3 Tuesday 09:00-10:30&lt;/h3&gt;
+&lt;div id=&quot;outline-container-1-4-1&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-4-1&quot;&gt;Yann Stempfel (KKL, Switzerland): &lt;strong&gt;Automation of the KKL PSA 'Results and Insights' Documentation&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-4-2&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-4-2&quot;&gt;Tero Tyrväinen (VTT, Finland): &lt;strong&gt;I&amp;amp;C modeling in FinPSA software.&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-4-3&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-4-3&quot;&gt;John Obama (IMdR, France): &lt;strong&gt;Contribution to a risk-informed assessment of the technical specifications of a nuclear power plant&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-5&quot; class=&quot;outline-3&quot;&gt;
+&lt;h3 id=&quot;sec-1-5&quot;&gt;Session 4 Tuesday 11:00-12:30&lt;/h3&gt;
+&lt;div id=&quot;outline-container-1-5-1&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-5-1&quot;&gt;Günter Becker (Risa, Germany): &lt;strong&gt;Requirements For A Post-Fukushima PSA Method&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-5-2&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-5-2&quot;&gt;Johan Sörman (Relcon Scandpower, Sweden): &lt;strong&gt;Developments of RiskSpectrum: what has been done in the past two years and what is forecasted&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-5-3&quot; class=&quot;outline-4&quot;&gt;
+&lt;h4 id=&quot;sec-1-5-3&quot;&gt;Antoine Rauzy (Ecole Polytechnique, France): &lt;strong&gt;XFTA: An Open PSA calculation engine&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;outline-container-1-6&quot; class=&quot;outline-3&quot;&gt;
+&lt;h3 id=&quot;sec-1-6&quot;&gt;Session 5 Tuesday 14:00-16:00&lt;/h3&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+	</entry>
+	<entry>
+		<title>Open PSA Workshop 2012 - Call for Participation</title>
+		<link rel="alternate" type="text/html" href="http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=31:open-psa-workshop-2012-call-for-participation&amp;catid=14:open-psa-workshop-7-clamart-2012&amp;Itemid=17"/>
+		<published>2012-09-30T08:06:31Z</published>
+		<updated>2012-09-30T08:06:31Z</updated>
+		<id>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=31:open-psa-workshop-2012-call-for-participation&amp;catid=14:open-psa-workshop-7-clamart-2012&amp;Itemid=17</id>
+		<author>
+			<name>Administrator</name>
+		<email>postmaster@open-psa.org</email>
+		</author>
+		<summary type="html">&lt;h1&gt;Open-PSA Workshop, December 10th &amp;amp; 11th 2012, EdF R&amp;amp;D Clamart Paris, FRANCE&lt;/h1&gt;
+&lt;h2&gt;&lt;strong&gt;Next Generation PSA Software, Methods, and Model Representation Standards&lt;/strong&gt;&lt;/h2&gt;
+&lt;div class=&quot;WordSection1&quot;&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Call for Participation:&lt;/strong&gt; To meet and discuss efforts, visions, and future needs with regards to Software, PSA analysts, and model representations in large, safety critical PSA.  All attendees are encouraged to present ideas, work-in-progress, research, and production systems, especially in the following areas.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quantification Methods and Algorithms;&lt;/li&gt;
+&lt;li&gt;User Interfaces;&lt;/li&gt;
+&lt;li&gt;Declarative Modeling;&lt;/li&gt;
+&lt;li&gt;Standard Model Representations;&lt;/li&gt;
+&lt;li&gt;Data and Results Visualization;&lt;/li&gt;
+&lt;li&gt;Uncertainty;&lt;/li&gt;
+&lt;li&gt;Risk Assessment of Human Actions;&lt;/li&gt;
+&lt;li&gt;Modeling Styles and their Effects on Clarity and Quantification;&lt;/li&gt;
+&lt;li&gt;PSA Software Verification, Benchmarks, and Quality Assurance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;The workshop will be especially focused on propositions for an update of the Open-PSA representation format for Fault Tree and Event Tree models.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt;&lt;strong&gt;Invited Speaker: Professor Akira YAMAGUCHI, Osaka University, Chair of Risk Technology Committee for PRA standard development in the Atomic Energy Society of Japan&lt;/strong&gt;&lt;/h3&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;&lt;strong&gt;How to Participate:&lt;/strong&gt; Please send an eMail to Pr. Antoine Rauzy at &lt;a href=&quot;mailto:rauzy@lix.polytechnique.fr&quot;&gt;rauzy@lix.polytechnique.fr&lt;/a&gt; as soon as possible.  Please put the word “Open-PSA Workshop” in the subject line.  We will make every effort to make room for anyone who wants to talk, make a presentation, or make a demonstration.  This is an open forum for the exchange of ideas.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organizers:&lt;/strong&gt; This workshop is organized by Mohamed Hibti (EdF R&amp;amp;D, mohamed.hibti@edf.fr), Woody Epstein (Relcon Scandpower, sep@scandpower.com) and Pr. Antoine Rauzy (Ecole Polytechnique, &lt;a href=&quot;mailto:rauzy@lix.polytechnique.fr&quot;&gt;rauzy@lix.polytechnique.fr&lt;/a&gt;).  Please do not hesitate to contact any of the members of the organizing committee if you have any questions.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;h1&gt;Open-PSA Workshop, December 10th &amp;amp; 11th 2012, EdF R&amp;amp;D Clamart Paris, FRANCE&lt;/h1&gt;
+&lt;h2&gt;&lt;strong&gt;Next Generation PSA Software, Methods, and Model Representation Standards&lt;/strong&gt;&lt;/h2&gt;
+&lt;div class=&quot;WordSection1&quot;&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Call for Participation:&lt;/strong&gt; To meet and discuss efforts, visions, and future needs with regards to Software, PSA analysts, and model representations in large, safety critical PSA.  All attendees are encouraged to present ideas, work-in-progress, research, and production systems, especially in the following areas.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quantification Methods and Algorithms;&lt;/li&gt;
+&lt;li&gt;User Interfaces;&lt;/li&gt;
+&lt;li&gt;Declarative Modeling;&lt;/li&gt;
+&lt;li&gt;Standard Model Representations;&lt;/li&gt;
+&lt;li&gt;Data and Results Visualization;&lt;/li&gt;
+&lt;li&gt;Uncertainty;&lt;/li&gt;
+&lt;li&gt;Risk Assessment of Human Actions;&lt;/li&gt;
+&lt;li&gt;Modeling Styles and their Effects on Clarity and Quantification;&lt;/li&gt;
+&lt;li&gt;PSA Software Verification, Benchmarks, and Quality Assurance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;The workshop will be especially focused on propositions for an update of the Open-PSA representation format for Fault Tree and Event Tree models.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt;&lt;strong&gt;Invited Speaker: Professor Akira YAMAGUCHI, Osaka University, Chair of Risk Technology Committee for PRA standard development in the Atomic Energy Society of Japan&lt;/strong&gt;&lt;/h3&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;&lt;strong&gt;How to Participate:&lt;/strong&gt; Please send an eMail to Pr. Antoine Rauzy at &lt;a href=&quot;mailto:rauzy@lix.polytechnique.fr&quot;&gt;rauzy@lix.polytechnique.fr&lt;/a&gt; as soon as possible.  Please put the word “Open-PSA Workshop” in the subject line.  We will make every effort to make room for anyone who wants to talk, make a presentation, or make a demonstration.  This is an open forum for the exchange of ideas.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organizers:&lt;/strong&gt; This workshop is organized by Mohamed Hibti (EdF R&amp;amp;D, mohamed.hibti@edf.fr), Woody Epstein (Relcon Scandpower, sep@scandpower.com) and Pr. Antoine Rauzy (Ecole Polytechnique, &lt;a href=&quot;mailto:rauzy@lix.polytechnique.fr&quot;&gt;rauzy@lix.polytechnique.fr&lt;/a&gt;).  Please do not hesitate to contact any of the members of the organizing committee if you have any questions.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Announcement</title>
+		<link rel="alternate" type="text/html" href="http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=25:announcement&amp;catid=12:exchange-format-work-package-1-group-meeting&amp;Itemid=11"/>
+		<published>2010-01-16T23:35:52Z</published>
+		<updated>2010-01-16T23:35:52Z</updated>
+		<id>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=25:announcement&amp;catid=12:exchange-format-work-package-1-group-meeting&amp;Itemid=11</id>
+		<author>
+			<name>Administrator</name>
+		<email>postmaster@open-psa.org</email>
+		</author>
+		<summary type="html">&lt;h1&gt;Exchange Format Work Package #1&lt;br /&gt; Project Group Meeting&lt;/h1&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;October 21st, 2008&lt;br /&gt; Dassault Systèmes&lt;br /&gt; 9 quai Marcel Dassault - 92150 SURESNES - FRANCE&lt;/p&gt;
+&lt;p&gt;The first meeting of the OPEN-PSA Work Package #1 will take place on October 21st from 10h30 to 16h at Dassault Systèmes. All Work Package participants and Exchange Format Project Group members are asked to participate. After a presentation of the participants around the table, we will discuss:
+</summary>
+		<content type="html">&lt;h1&gt;Exchange Format Work Package #1&lt;br /&gt; Project Group Meeting&lt;/h1&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;October 21st, 2008&lt;br /&gt; Dassault Systèmes&lt;br /&gt; 9 quai Marcel Dassault - 92150 SURESNES - FRANCE&lt;/p&gt;
+&lt;p&gt;The first meeting of the OPEN-PSA Work Package #1 will take place on October 21st from 10h30 to 16h at Dassault Systèmes. All Work Package participants and Exchange Format Project Group members are asked to participate. After a presentation of the participants around the table, we will discuss:
+</content>
+	</entry>
+	<entry>
+		<title>Announcement</title>
+		<link rel="alternate" type="text/html" href="http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=24:announcement&amp;catid=11:open-psa-workshop-6-madrid-2008&amp;Itemid=10"/>
+		<published>2010-01-16T23:30:35Z</published>
+		<updated>2010-01-16T23:30:35Z</updated>
+		<id>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=24:announcement&amp;catid=11:open-psa-workshop-6-madrid-2008&amp;Itemid=10</id>
+		<author>
+			<name>Administrator</name>
+		<email>postmaster@open-psa.org</email>
+		</author>
+		<summary type="html">&lt;p&gt;The meeting will take place at the CSN headquarters, Calle Justo Dorado, 11, Madrid&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;The meeting will take place at the CSN headquarters, Calle Justo Dorado, 11, Madrid&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Call for Participation</title>
+		<link rel="alternate" type="text/html" href="http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=23:call-for-participation&amp;catid=10:open-psa-workshop-5-vienna-2007&amp;Itemid=9"/>
+		<published>2010-01-16T23:20:54Z</published>
+		<updated>2010-01-16T23:20:54Z</updated>
+		<id>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=23:call-for-participation&amp;catid=10:open-psa-workshop-5-vienna-2007&amp;Itemid=9</id>
+		<author>
+			<name>Administrator</name>
+		<email>postmaster@open-psa.org</email>
+		</author>
+		<summary type="html">&lt;h1&gt;Next Generation Probabilistic Safety Assessment&lt;/h1&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;December 6th and 7th, 2007&lt;br /&gt; IAEA, Vienna&lt;/p&gt;
+&lt;h2&gt;Call for Participation&lt;/h2&gt;
+&lt;p&gt;To meet and discuss efforts, visions, and future needs in large, safety critical PSA. PSA analysts, software companies, regulators, managers, and policy makers are especially encouraged to attend and to present ideas, work-in-progress, research, and production systems, especially in the following areas:
+</summary>
+		<content type="html">&lt;h1&gt;Next Generation Probabilistic Safety Assessment&lt;/h1&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;December 6th and 7th, 2007&lt;br /&gt; IAEA, Vienna&lt;/p&gt;
+&lt;h2&gt;Call for Participation&lt;/h2&gt;
+&lt;p&gt;To meet and discuss efforts, visions, and future needs in large, safety critical PSA. PSA analysts, software companies, regulators, managers, and policy makers are especially encouraged to attend and to present ideas, work-in-progress, research, and production systems, especially in the following areas:
+</content>
+	</entry>
+	<entry>
+		<title>Presentations</title>
+		<link rel="alternate" type="text/html" href="http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=22:presentations&amp;catid=9:open-psa-workshop-4-osaka-2007&amp;Itemid=8"/>
+		<published>2010-01-16T23:06:00Z</published>
+		<updated>2010-01-16T23:06:00Z</updated>
+		<id>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=22:presentations&amp;catid=9:open-psa-workshop-4-osaka-2007&amp;Itemid=8</id>
+		<author>
+			<name>Administrator</name>
+		<email>postmaster@open-psa.org</email>
+		</author>
+		<summary type="html">&lt;p&gt;[FIXME]&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;[FIXME]&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Announcement</title>
+		<link rel="alternate" type="text/html" href="http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=21:announcement&amp;catid=9:open-psa-workshop-4-osaka-2007&amp;Itemid=8"/>
+		<published>2010-01-16T22:56:22Z</published>
+		<updated>2010-01-16T22:56:22Z</updated>
+		<id>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=21:announcement&amp;catid=9:open-psa-workshop-4-osaka-2007&amp;Itemid=8</id>
+		<author>
+			<name>Administrator</name>
+		<email>postmaster@open-psa.org</email>
+		</author>
+		<summary type="html">&lt;p&gt;Dear Colleagues,&lt;/p&gt;
+&lt;p&gt;Over the last 5 years, new calculation techniques, such as BDD, have been extensively studied in nuclear PSA. The concern of these studies has been to end the use of approximations: numerical approximations for which we do not know the error factors, and modeling approximations which leave out perhaps critical elements of the actual plant.
+</summary>
+		<content type="html">&lt;p&gt;Dear Colleagues,&lt;/p&gt;
+&lt;p&gt;Over the last 5 years, new calculation techniques, such as BDD, have been extensively studied in nuclear PSA. The concern of these studies has been to end the use of approximations: numerical approximations for which we do not know the error factors, and modeling approximations which leave out perhaps critical elements of the actual plant.
+</content>
+	</entry>
+	<entry>
+		<title>Information Bulletin #1</title>
+		<link rel="alternate" type="text/html" href="http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=20:information-bulletin-1&amp;catid=8:open-psa-workshop-3-washingtondc-2007&amp;Itemid=7"/>
+		<published>2010-01-16T22:49:01Z</published>
+		<updated>2010-01-16T22:49:01Z</updated>
+		<id>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=20:information-bulletin-1&amp;catid=8:open-psa-workshop-3-washingtondc-2007&amp;Itemid=7</id>
+		<author>
+			<name>Administrator</name>
+		<email>postmaster@open-psa.org</email>
+		</author>
+		<summary type="html">&lt;h2&gt;Meeting Location&lt;/h2&gt;
+&lt;p&gt;When you arrive at the NEI building, tell the reception desk on the first floor that you are attending the Open PSA meeting on the 4th floor. At the reception desk on the 4th floor, you will be asked for photo identification, and you will be directed to the meeting room. If you experience problems at NEI, please have them contact Steve Epstein 216-798-3969. The address of the NEI is:&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Nuclear Energy Institute&lt;br /&gt; 1776 I Street NW, Suite 400&lt;br /&gt; Washington, DC 20006-3708&lt;br /&gt; &lt;a href=&quot;http://www.nei.org&quot;&gt;www.nei.org&lt;/a&gt;&lt;br /&gt; P: 202.739.8000&lt;/p&gt;
+&lt;p&gt;The workshop will begin at 8:30. We suggest that you arrive early. Sometimes there are many meetings scheduled at NEI, and it may take some time to check in with reception.&lt;br /&gt; PLEASE REMEMBER TO BRING PHOTO IDENTIFICATION.&lt;/p&gt;
+&lt;h2&gt;Workshop Dinner&lt;/h2&gt;
+&lt;p&gt;The workshop dinner will be held at the Bistrot du Coin at 7:30pm. &lt;a href=&quot;http://www.bistrotducoin.com&quot;&gt;Bistrot du Coin&lt;/a&gt; is located near Dupont Circle, 1738 Connecticut Avenue, NW.&lt;/p&gt;
+&lt;h2&gt;Contact&lt;/h2&gt;
+&lt;p&gt;Please me with any problems or questions.&lt;/p&gt;
+&lt;p&gt;Steve Epstein&lt;/p&gt;</summary>
+		<content type="html">&lt;h2&gt;Meeting Location&lt;/h2&gt;
+&lt;p&gt;When you arrive at the NEI building, tell the reception desk on the first floor that you are attending the Open PSA meeting on the 4th floor. At the reception desk on the 4th floor, you will be asked for photo identification, and you will be directed to the meeting room. If you experience problems at NEI, please have them contact Steve Epstein 216-798-3969. The address of the NEI is:&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Nuclear Energy Institute&lt;br /&gt; 1776 I Street NW, Suite 400&lt;br /&gt; Washington, DC 20006-3708&lt;br /&gt; &lt;a href=&quot;http://www.nei.org&quot;&gt;www.nei.org&lt;/a&gt;&lt;br /&gt; P: 202.739.8000&lt;/p&gt;
+&lt;p&gt;The workshop will begin at 8:30. We suggest that you arrive early. Sometimes there are many meetings scheduled at NEI, and it may take some time to check in with reception.&lt;br /&gt; PLEASE REMEMBER TO BRING PHOTO IDENTIFICATION.&lt;/p&gt;
+&lt;h2&gt;Workshop Dinner&lt;/h2&gt;
+&lt;p&gt;The workshop dinner will be held at the Bistrot du Coin at 7:30pm. &lt;a href=&quot;http://www.bistrotducoin.com&quot;&gt;Bistrot du Coin&lt;/a&gt; is located near Dupont Circle, 1738 Connecticut Avenue, NW.&lt;/p&gt;
+&lt;h2&gt;Contact&lt;/h2&gt;
+&lt;p&gt;Please me with any problems or questions.&lt;/p&gt;
+&lt;p&gt;Steve Epstein&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Announcement</title>
+		<link rel="alternate" type="text/html" href="http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=19:announcement&amp;catid=8:open-psa-workshop-3-washingtondc-2007&amp;Itemid=7"/>
+		<published>2010-01-16T22:39:12Z</published>
+		<updated>2010-01-16T22:39:12Z</updated>
+		<id>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=19:announcement&amp;catid=8:open-psa-workshop-3-washingtondc-2007&amp;Itemid=7</id>
+		<author>
+			<name>Administrator</name>
+		<email>postmaster@open-psa.org</email>
+		</author>
+		<summary type="html">&lt;p&gt;Dear Colleagues,&lt;/p&gt;
+&lt;p&gt;It is with great pleasure that we announce the first US workshop on Open PSA to be hosted by the NEI, the Nuclear Energy Institute, in Washington, DC on October 3rd, 2007.
+</summary>
+		<content type="html">&lt;p&gt;Dear Colleagues,&lt;/p&gt;
+&lt;p&gt;It is with great pleasure that we announce the first US workshop on Open PSA to be hosted by the NEI, the Nuclear Energy Institute, in Washington, DC on October 3rd, 2007.
+</content>
+	</entry>
+</feed>

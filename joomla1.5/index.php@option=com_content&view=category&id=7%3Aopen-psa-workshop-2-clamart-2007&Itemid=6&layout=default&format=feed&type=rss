@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Open PSA Workshop 2 - Clamart 2007</title>
+		<description>Website of the Open Initiative for Next Generation of Probabilistic Safety Assessment</description>
+		<link>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=category&amp;id=7&amp;Itemid=6</link>
+		<lastBuildDate>Sun, 17 Jan 2016 09:23:36 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>en-gb</language>
+		<item>
+			<title>Report</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=16:report&amp;catid=7:open-psa-workshop-2-clamart-2007&amp;Itemid=6</link>
+			<guid>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=16:report&amp;catid=7:open-psa-workshop-2-clamart-2007&amp;Itemid=6</guid>
+			<description><![CDATA[<p>Dear Colleagues,</p>
+<p>The first “Standard Representation Format for PSA Models Technical Working Group Meeting” was held at Electricité de France on June 19th. We had 12 people in attendance. The morning was spent in review of the Gösgen meeting and a discussion of issues to consider and actions to accomplish in the coming months. The afternoon was devoted to a review of the first draft of the standard, with Antoine Rauzy leading the review.
+]]></description>
+			<author>postmaster@open-psa.org (Administrator)</author>
+			<category>Open PSA Workshop 2 - Clamart 2007</category>
+			<pubDate>Sat, 16 Jan 2010 21:55:46 +0000</pubDate>
+		</item>
+		<item>
+			<title>Attendee List</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=15:attendee-list&amp;catid=7:open-psa-workshop-2-clamart-2007&amp;Itemid=6</link>
+			<guid>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=15:attendee-list&amp;catid=7:open-psa-workshop-2-clamart-2007&amp;Itemid=6</guid>
+			<description><![CDATA[<p>The following people attended the workshop:
+]]></description>
+			<author>postmaster@open-psa.org (Administrator)</author>
+			<category>Open PSA Workshop 2 - Clamart 2007</category>
+			<pubDate>Sat, 16 Jan 2010 21:36:34 +0000</pubDate>
+		</item>
+		<item>
+			<title>Call for Participation</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=17:announcement&amp;catid=7:open-psa-workshop-2-clamart-2007&amp;Itemid=6</link>
+			<guid>http://open-psa.org/joomla1.5/index.php?option=com_content&amp;view=article&amp;id=17:announcement&amp;catid=7:open-psa-workshop-2-clamart-2007&amp;Itemid=6</guid>
+			<description><![CDATA[<h1>Technical Working Group Meeting #1<br /> Standard Representation Format for PSA Models</h1>
+<p style="text-align: center;">July 19th, 2007<br /> Electricité de France<br /> département Management du Risque Industriel, Paris</p>
+<h2>Call for Participation</h2>
+<p>In response to the “next steps forward” charge given by the Open Initiative, the first working group meeting for the Standard Representation Format for PSA Models will begin discussions. Dr. Antoine Rauzy will be the session chairman. Participation is open to anyone in the international PSA community.
+]]></description>
+			<author>postmaster@open-psa.org (Administrator)</author>
+			<category>Open PSA Workshop 2 - Clamart 2007</category>
+			<pubDate>Sat, 16 Jan 2010 22:03:40 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

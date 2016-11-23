@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Open PSA - Resources - Visualization</title>
+		<description></description>
+		<image>
+			<title>Open PSA - Resources - Visualization</title>
+			<url>http://open-psa.org/joomla1.5/images/stories/folder_grey.png</url>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;catid=13&amp;Itemid=16</link>
+		</image>
+		<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;catid=13&amp;Itemid=16</link>
+		<lastBuildDate>Sun, 17 Jan 2016 10:26:19 +0100</lastBuildDate>
+		<generator>Sigsiu Online Business Index 2 FeedCreator</generator>
+		<item>
+			<title>Layout of Graph Visualizations</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=13&amp;sobi2Id=35&amp;Itemid=16</link>
+			<description></description>
+			<pubDate>Sun, 17 Jan 2010 16:27:20 +0100</pubDate>
+		</item>
+		<item>
+			<title>Rethinking the Design of Presentation Slides</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=13&amp;sobi2Id=34&amp;Itemid=16</link>
+			<description></description>
+			<pubDate>Sun, 17 Jan 2010 16:26:22 +0100</pubDate>
+		</item>
+		<item>
+			<title>Free Software for a World in Motion</title>
+			<link>http://open-psa.org/joomla1.5/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=13&amp;sobi2Id=33&amp;Itemid=16</link>
+			<description></description>
+			<pubDate>Sun, 17 Jan 2010 16:25:27 +0100</pubDate>
+		</item>
+	</channel>
+</rss>
